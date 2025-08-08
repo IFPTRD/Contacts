@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "branch": "Indigenous Services",
+    "department": "Health Canada",
+    "name": "Jane Doe",
+    "title": "Policy Analyst",
+    "division": "Indigenous Health",
+    "email": "jane.doe@hc-sc.gc.ca",
+    "tags": ["mental health", "policy review"],
+    "preferences": "Please route requests through single window.",
+    "preferred_to": ["jane.doe@hc-sc.gc.ca"],
+    "preferred_cc": ["john.smith@hc-sc.gc.ca"],
+    "last_modified_by": "System",
+    "last_modified_at": "2024-08-08"
+  }
+]
